@@ -1,3 +1,26 @@
+Проект выполнен в рамках он-лайн курса "React" (BeOnMax), по видеоурокам с домашними заданиями.
+Первый проект в курсе.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
